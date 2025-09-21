@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'VonwaonBitmap 12px';
+    src: url('/VonwaonBitmap-12px.woff2') format('woff2'),
+        url('/VonwaonBitmap-12px.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VonwaonBitmap 16px';
+    src: url('/VonwaonBitmap-16px.woff2') format('woff2'),
+        url('/VonwaonBitmap-16px.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
