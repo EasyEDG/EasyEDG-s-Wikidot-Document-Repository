@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'VonwaonBitmap 12px';
-    src: url('https://github.com/EasyEDG/EasyEDG-s-Wikidot-Document-Repository/blob/main/CC0%201.0/%5BFont%5DVonwaonBitmap/VonwaonBitmap-12px.woff2') format('woff2'),
-        url('https://github.com/EasyEDG/EasyEDG-s-Wikidot-Document-Repository/blob/main/CC0%201.0/%5BFont%5DVonwaonBitmap/VonwaonBitmap-12px.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/EasyEDG/EasyEDG-s-Wikidot-Document-Repository/CC0%201.0/%5BFont%5DVonwaonBitmap//VonwaonBitmap-12px.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/EasyEDG/EasyEDG-s-Wikidot-Document-Repository/CC0%201.0/%5BFont%5DVonwaonBitmap//VonwaonBitmap-12px.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'VonwaonBitmap 16px';
-    src: url('https://github.com/EasyEDG/EasyEDG-s-Wikidot-Document-Repository/blob/main/CC0%201.0/%5BFont%5DVonwaonBitmap/VonwaonBitmap-16px.woff2') format('woff2'),
-        url('https://github.com/EasyEDG/EasyEDG-s-Wikidot-Document-Repository/blob/main/CC0%201.0/%5BFont%5DVonwaonBitmap/VonwaonBitmap-16px.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/EasyEDG/EasyEDG-s-Wikidot-Document-Repository/CC0%201.0/%5BFont%5DVonwaonBitmap//VonwaonBitmap-16px.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/EasyEDG/EasyEDG-s-Wikidot-Document-Repository/CC0%201.0/%5BFont%5DVonwaonBitmap//VonwaonBitmap-16px.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
